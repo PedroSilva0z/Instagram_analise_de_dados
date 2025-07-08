@@ -95,7 +95,8 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 --- 
 
 ## 👤 Autor
-Pedro Silveira
+
+Pedro Silveira - Projeto do curso Hashtag
 
 📍 São Paulo, Brasil
 
