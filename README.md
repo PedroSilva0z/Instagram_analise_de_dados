@@ -13,10 +13,8 @@ Análise exploratória de dados do **Instagram**, focando em métricas como enga
 - [🔍 Metodologia & Análise](#-metodologia--análise)  
 - [📈 Resultados & Insights](#-resultados--insights)  
 - [🧠 Conclusões](#-conclusões)  
-- [🔭 Próximos Passos](#-próximos-passos)  
 - [👤 Autor](#-autor)  
 - [🤝 Contribuições](#-contribuições)  
-- [📄 Licença](#-licença)
 
 ---
 
